@@ -1,0 +1,4 @@
+- Install rust
+- build with ```cargo rustc```
+- run with ```target/debug/ipsee```
+- use ```--help``` to see available options
